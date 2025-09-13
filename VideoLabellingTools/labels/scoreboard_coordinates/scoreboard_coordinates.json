@@ -34,9 +34,15 @@
   "game_5.mp4": [
     {
       "start": 0,
-      "end": null,
+      "end": 8460,
       "left_player": [934, 411, 23, 26],
       "right_player": [958, 410, 24, 25]
+    },
+    {
+      "start": 8460,
+      "end": null,
+      "left_player": [922, 411, 23, 26],
+      "right_player": [945, 410, 24, 25]
     }
   ]
 }
