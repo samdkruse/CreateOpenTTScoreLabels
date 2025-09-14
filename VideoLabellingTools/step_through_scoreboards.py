@@ -36,7 +36,7 @@ def coords_for_frame(game_ranges: Dict[str, List[dict]],
 
 # === Load range-aware coordinates (after helpers/imports exist) ===
 scoreboard_coords = load_scoreboard_ranges(
-    Path("./labels/scoreboard_coordinates/scoreboard_coordinates.json")
+    Path("./labels/scoreboard_coordinates/test_scoreboard_coordinates.json")
 )
 
 # === Paths & defaults ===

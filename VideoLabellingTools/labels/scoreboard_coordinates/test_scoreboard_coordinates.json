@@ -1,0 +1,128 @@
+{
+  "test_1.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [
+        924,
+        434,
+        22,
+        27
+      ],
+      "right_player": [
+        947,
+        435,
+        22,
+        26
+      ]
+    }
+  ],
+  "test_2.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [
+        960,
+        392,
+        26,
+        25
+      ],
+      "right_player": [
+        984,
+        393,
+        23,
+        24
+      ]
+    }
+  ],
+  "test_3.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [
+        970,
+        393,
+        24,
+        27
+      ],
+      "right_player": [
+        996,
+        393,
+        23,
+        26
+      ]
+    }
+  ],
+  "test_4.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [
+        903,
+        508,
+        24,
+        25
+      ],
+      "right_player": [
+        928,
+        509,
+        25,
+        25
+      ]
+    }
+  ],
+  "test_5.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [
+        928,
+        500,
+        24,
+        27
+      ],
+      "right_player": [
+        951,
+        502,
+        26,
+        26
+      ]
+    }
+  ],
+  "test_6.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [
+        1001,
+        507,
+        22,
+        25
+      ],
+      "right_player": [
+        1025,
+        508,
+        23,
+        25
+      ]
+    }
+  ],
+  "test_7.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [
+        886,
+        288,
+        25,
+        27
+      ],
+      "right_player": [
+        908,
+        288,
+        28,
+        26
+      ]
+    }
+  ]
+}
