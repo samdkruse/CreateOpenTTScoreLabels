@@ -22,6 +22,13 @@ Example:
     --out-video-prefix /opt/dlami/nvme/opentt_data/trainingdata/video/game_1 \
     --out-csv-prefix /opt/dlami/nvme/opentt_data/CreateOpenTTScoreLabels/VideoLabellingTools/labels/densified_scores/game_1
 
+    python3 splice_game.py \
+    --video /opt/dlami/nvme/opentt_data/trainingdata/video/game_2.mp4 \
+    --csv /opt/dlami/nvme/opentt_data/CreateOpenTTScoreLabels/VideoLabellingTools/labels/densified_scores/game_2_scores.csv \
+    --switch-frame 149900 \
+    --out-video-prefix /opt/dlami/nvme/opentt_data/trainingdata/video/game_2 \
+    --out-csv-prefix /opt/dlami/nvme/opentt_data/CreateOpenTTScoreLabels/VideoLabellingTools/labels/densified_scores/game_2
+
 
 
     /opt/dlami/nvme/opentt_data/trainingdata/video/game_1.mp4
