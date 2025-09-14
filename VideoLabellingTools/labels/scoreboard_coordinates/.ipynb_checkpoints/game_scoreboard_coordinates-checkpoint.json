@@ -1,0 +1,48 @@
+{
+  "game_1.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [917, 399, 20, 24],
+      "right_player": [941, 400, 19, 23]
+    }
+  ],
+  "game_2.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [999, 506, 23, 25],
+      "right_player": [1024, 508, 21, 23]
+    }
+  ],
+  "game_3.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [877, 435, 23, 26],
+      "right_player": [900, 433, 22, 28]
+    }
+  ],
+  "game_4.mp4": [
+    {
+      "start": 0,
+      "end": null,
+      "left_player": [905, 433, 22, 26],
+      "right_player": [928, 432, 24, 26]
+    }
+  ],
+  "game_5.mp4": [
+    {
+      "start": 0,
+      "end": 8460,
+      "left_player": [934, 411, 23, 26],
+      "right_player": [958, 410, 24, 25]
+    },
+    {
+      "start": 8460,
+      "end": null,
+      "left_player": [922, 411, 23, 26],
+      "right_player": [945, 410, 24, 25]
+    }
+  ]
+}

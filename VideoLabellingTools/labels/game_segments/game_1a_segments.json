@@ -1,0 +1,22 @@
+[
+  {
+    "start": 0,
+    "end": 7299,
+    "won": true,
+    "winner": "left",
+    "final_score": [
+      11,
+      6
+    ]
+  },
+  {
+    "start": 7300,
+    "end": 25399,
+    "won": false,
+    "winner": null,
+    "final_score": [
+      3,
+      5
+    ]
+  }
+]

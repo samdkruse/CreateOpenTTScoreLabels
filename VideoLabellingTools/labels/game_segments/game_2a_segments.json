@@ -1,0 +1,52 @@
+[
+  {
+    "start": 0,
+    "end": 31299,
+    "won": true,
+    "winner": "right",
+    "final_score": [
+      6,
+      11
+    ]
+  },
+  {
+    "start": 31300,
+    "end": 65299,
+    "won": true,
+    "winner": "left",
+    "final_score": [
+      11,
+      8
+    ]
+  },
+  {
+    "start": 65300,
+    "end": 96599,
+    "won": true,
+    "winner": "left",
+    "final_score": [
+      11,
+      7
+    ]
+  },
+  {
+    "start": 96600,
+    "end": 137499,
+    "won": true,
+    "winner": "right",
+    "final_score": [
+      9,
+      11
+    ]
+  },
+  {
+    "start": 137500,
+    "end": 149899,
+    "won": false,
+    "winner": null,
+    "final_score": [
+      3,
+      5
+    ]
+  }
+]
