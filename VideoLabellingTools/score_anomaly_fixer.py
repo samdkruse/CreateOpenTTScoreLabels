@@ -268,7 +268,7 @@ with dpg.window(label="Video Review", tag="main"):
     dpg.add_separator()
     # Navigation + Actions (inline editing)
     dpg.add_text("Navigation / Actions")
-    dpg.add_input_int(label="Step Size", default_value=10, min_value=1, width=100, tag="step_size_input")
+    dpg.add_input_int(label="Step Size", default_value=100, min_value=1, width=100, tag="step_size_input")
     dpg.add_same_line()
     dpg.add_button(label="Next Point of Interest", callback=lambda: goto_next_poi())
     dpg.add_same_line()
